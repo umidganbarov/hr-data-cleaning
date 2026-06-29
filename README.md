@@ -3,8 +3,9 @@
 Cleaning messy real-world data with Python, Pandas, and regex.
 
 ## What's in here
-- `dirty_hr.py` — full messy data
-- `clean_hr.py` — full cleaning script for messy HR dataset
+- `dirty_hr.csv` — full messy data
+- `cleaning.py` —  cleaning data
+- `clean_hr.csv` — full cleaning script for messy HR dataset
 
 ## Dataset
 Messy HR data: 1000 rows, 10 columns with mixed types, 
